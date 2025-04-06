@@ -28,13 +28,14 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://camo.githubusercontent.com/f84838e9d22dc14dfe2210955fd1622fbf01b4fd3678ffe2b8f2ab3bde55f641/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d63616d707573782d6f6666696369616c" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul2501&theme=radical" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=10&theme=radical&hide=tex" alt="Top Langs" />
 </p>
 
----
 
 ### 🏆 Achievements
 
