@@ -63,14 +63,3 @@
 ### 😊 Fun Fact
 
 I love automating things and making AI projects feel like magic. Always curious, always learning.
-
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul2501&theme=radical" alt="Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=10&theme=radical&hide=tex" alt="Top Langs" />
-</p>
-
-
