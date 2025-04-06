@@ -1,55 +1,65 @@
-# 👋 Hi, I'm Atul Yadav
-
-Welcome to my GitHub! I'm a Data Science and Machine Learning enthusiast, currently working on real-world AI projects, with a special interest in automation, autonomous driving, and MLOps.
-
----
-
-## 🚀 What I'm Doing
-
-- 🔧 **Building AI models** using Jupyter Notebook (actively coding for the past 90+ days).
-- 📦 Using **Conda environments** for efficient package & dependency management.
-- 📊 Crafting **data visualizations** with Matplotlib & Seaborn.
-- 🤖 Developing an **autonomous driving simulation** project using SUMO.
-- 🛠️ Building **end-to-end ML pipelines** in my MLOps bootcamp projects.
+<h1 align="center">Hi 👋, I'm Atul Yadav</h1>
+<p align="center">🚀 Aspiring Data Scientist | ML & DL Enthusiast | Explorer of MLOps | Pythonic Jupyter Fan</p>
 
 ---
 
-## 🧠 Skills
+### 🧠 About Me
 
-- **Languages**: Python, JavaScript
-- **ML & DL**: scikit-learn, TensorFlow, NumPy, Pandas
-- **MLOps**: Docker, GitHub Actions, Streamlit, Flask
-- **Visualization**: Matplotlib, Seaborn, Plotly
-- **Web Scraping**: BeautifulSoup, Selenium
-- **Tools**: Jupyter Notebook, Conda, Git
-
----
-
-## 📫 Let's Connect
-
-- 🌐 Website: [blocktechvalidator.xyz](http://blocktechvalidator.xyz)
-- 🐦 Twitter: [@0xDavid_xyz](https://x.com/0xDavid_xyz)
-- 💼 LinkedIn: [*(Add your LinkedIn here)*](https://www.linkedin.com/in/atul-yadav-112063294/)
+- 🎓 I’ve completed the **Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp**
+- 🧪 I’m exploring **MLOps** through real-world projects (10+ end-to-end ML projects)
+- 📈 Experienced with **Jupyter Notebook**, working consistently for 90+ days
+- 📊 I have strong knowledge of **Matplotlib**, **Seaborn**, and **Statistics**
+- 🤖 Currently working on a **Self-Driving Car AI (SUMO)** as a personal project
+- 🌍 Goal: Land a Data Science/ML Job or Internship in **Japan**
 
 ---
 
-## 📈 GitHub Stats
+### 🧰 Tools & Tech
 
-![Atul GitHub Stats](https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=radical)
-
----
-
-## 🏆 Achievements
-
-- 💡 **Consistently active in Jupyter Notebooks for 90+ days**
-- 🔁 **Pull Shark**: Recognized for multiple pull request contributions
-
----
-
-## 💡 Fun Fact
-
-When I'm not coding, I'm usually exploring new AI research on YouTube or building practical ML tools just for fun.
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white" />
+  <img src="https://img.shields.io/badge/Seaborn-0C5A5D?style=flat" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
+</p>
 
 ---
 
-> 📌 *Currently open to internships or entry-level ML roles — especially excited about opportunities in Japan or remote!*
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://camo.githubusercontent.com/f84838e9d22dc14dfe2210955fd1622fbf01b4fd3678ffe2b8f2ab3bde55f641/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d63616d707573782d6f6666696369616c" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 Achievements
+
+- 🏅 Completed multiple bootcamps and projects (check pinned repos)
+- 🔧 Built several ML workflows using **Conda**, **Jupyter**, and **Python**
+
+---
+
+### 📫 Let’s Connect
+
+- 🌐 Website: [blocktechvalidator.xyz](https://blocktechvalidator.xyz)
+- 🐦 Twitter: [@0xDavid_xyz](https://twitter.com/0xDavid_xyz)
+- 💼 LinkedIn: [Your LinkedIn Profile](#)
+- 📧 Email: **yatul247@gmail.com**
+
+---
+
+### 🔍 Looking For
+
+- 🤝 Open to internships or job roles in **Machine Learning**, **Data Science**, or **MLOps**
+- 🌏 Especially interested in opportunities in **Japan**
+
+---
+
+### 😊 Fun Fact
+
+I love automating things and making AI projects feel like magic. Always curious, always learning.
+
