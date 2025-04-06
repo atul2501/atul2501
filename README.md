@@ -50,8 +50,8 @@
 
 - 🌐 Website: [blocktechvalidator.xyz](https://blocktechvalidator.xyz)
 - 🐦 Twitter: [@0xDavid_xyz](https://twitter.com/0xDavid_xyz)
-- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/atul-yadav-112063294/)
-- 📧 Email: **yatul247@gmail.com**
+- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/atul-yadav-112063294/)
+- 📧 Email: [Email](yatul247@gmail.com)
 
 ---
 
