@@ -29,13 +29,13 @@ Welcome to my GitHub! I'm a Data Science and Machine Learning enthusiast, curren
 
 - 🌐 Website: [blocktechvalidator.xyz](http://blocktechvalidator.xyz)
 - 🐦 Twitter: [@0xDavid_xyz](https://x.com/0xDavid_xyz)
-- 💼 LinkedIn: *(Add your LinkedIn here)*
+- 💼 LinkedIn: [*(Add your LinkedIn here)*](https://www.linkedin.com/in/atul-yadav-112063294/)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Atul's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=radical)
+![Atul GitHub Stats](https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=radical)
 
 ---
 
