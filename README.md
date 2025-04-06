@@ -3,14 +3,18 @@
 
 ---
 
-### 🧠 About Me
+## 👋 About Me
+
+💡 I love **cricket**, diving into **probability**, and thinking **differently** to solve problems creatively.  
+Here’s a quick overview of my journey and goals:
 
 - 🎓 I’ve completed the **Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp**
 - 🧪 I’m exploring **MLOps** through real-world projects (10+ end-to-end ML projects)
-- 📈 Experienced with **Jupyter Notebook**, working consistently for 120+ days
-- 📊 I have strong knowledge of **Matplotlib**, **Seaborn**, and **Statistics**
-- 🤖 Currently working on a **Self-Driving Car AI (SUMO)** as a personal project
-- 🌍 Goal: Land a Data Science/ML Job or Internship in **Japan**
+- 📈 Working consistently in **Jupyter Notebook** for the last **120+ days**
+- 📊 Strong grasp on **Matplotlib**, **Seaborn**, and core **Statistics**
+- 🤖 Currently building a **Self-Driving Car AI (SUMO)** as a personal project
+- 🌏 Goal: Get a **Data Science/ML Job or Internship in Japan**
+
 
 ---
 
