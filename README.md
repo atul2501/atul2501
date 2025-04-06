@@ -67,5 +67,6 @@
 
 I love automating things and making AI projects feel like magic. Always curious, always learning.
 
+###Email
+Email :- yatul247@gmail.com
 
-<a href="mailto:yatul247@gmail.com">Send Email</a>
