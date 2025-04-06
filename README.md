@@ -66,3 +66,6 @@
 ### 😊 Fun Fact
 
 I love automating things and making AI projects feel like magic. Always curious, always learning.
+
+
+<a href="mailto:yatul247@gmail.com">Send Email</a>
