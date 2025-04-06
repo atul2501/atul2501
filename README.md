@@ -48,10 +48,21 @@
 
 ### 📫 Let’s Connect
 
-- 🌐 Website: [blocktechvalidator.xyz](https://blocktechvalidator.xyz)
-- 🐦 Twitter: [@0xDavid_xyz](https://twitter.com/0xDavid_xyz)
-- 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/atul-yadav-112063294/)
-- 📧 Email: [Email](yatul247@gmail.com)
+<p>
+  <a href="https://blocktechvalidator.xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat&logo=Google-Chrome&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/0xDavid_xyz" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/atul-yadav-112063294/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:yatul247@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 
 ---
 
