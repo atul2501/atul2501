@@ -48,7 +48,7 @@
 
 ### 📫 Let’s Connect
 
-[![Website](https://img.shields.io/badge/Website-020000?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://blocktechvalidator.xyz)
+[![Website](https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://blocktechvalidator.xyz)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xDavid_xyz)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-yadav-112063294/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatul247@gmail.com)
