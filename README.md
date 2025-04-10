@@ -2,6 +2,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Atul+Yadav;MLOps+Explorer;Pythonic+Jupyter+Fan;Machine+Learning+Engineer;AI+Project+Builder" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/github/followers/atul2501?label=Follow&style=social" />
+  <img src="https://img.shields.io/github/stars/atul2501?style=social" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=atul2501" />
+</p>
+
 ---
 
 ## 🙋‍♂️ About Me
@@ -39,8 +45,17 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-AA0000?style=for-the-badge&logo=xgboost&logoColor=white" />
   <img src="https://img.shields.io/badge/LightGBM-3A9A5B?style=for-the-badge&logo=lightgbm&logoColor=white" />
-
 </p>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔍 [Customer Churn Prediction](https://github.com/atul2501/customer-churn-prediction)  
+  `Scikit-learn` | `Pandas` | `EDA` | `XGBoost`
+
+- 🤖 [Self-Driving Car AI (SUMO)](https://github.com/atul2501/sumo-ai-car)  
+  `SUMO` | `Computer Vision` | `Reinforcement Learning`
 
 ---
 
@@ -52,6 +67,11 @@
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=8&theme=gruvbox&hide=tex&hide_border=true&title_color=8ec07c" width="45%" />
+</p>
+
+<p align="center">
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul2501&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
