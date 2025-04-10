@@ -1,22 +1,23 @@
 <h1 align="center">Hi 👋, I'm Atul Yadav</h1>
-<p align="center">🚀 Aspiring Data Scientist | ML & DL Enthusiast | Explorer of MLOps | Pythonic Jupyter Fan</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=🚀+Aspiring+Data+Scientist;ML+%26+DL+Enthusiast;MLOps+Explorer+%7C+Pythonic+Jupyter+Fan" alt="Typing SVG" />
+</p>
 
 ---
 
 ## 🙋‍♂️ About Me
 
-- 🏏 Love **cricket** — passion and discipline on the field
-- 🎲 Love **probability** — predicting outcomes is exciting
-- 💭 Always **thinking differently** — unique ideas drive innovation
-- 💪 A **hard worker** — I dive deep where my curiosity leads
-- 🎓 I’ve completed the **Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp**
-- 🧪 Currently exploring **MLOps** through 10+ end-to-end ML projects
-- 📈 Working consistently in **Jupyter Notebook**
-- 📊 Strong grasp of **Matplotlib**, **Seaborn**, and **Statistics**
-- 🤖 Building a **Self-Driving Car AI (SUMO)** as a personal passion project
+- 🏏 Love **cricket** — passion and discipline on the field  
+- 🎲 Love **probability** — predicting outcomes is exciting  
+- 💭 Always **thinking differently** — unique ideas drive innovation  
+- 💪 A **hard worker** — I dive deep where my curiosity leads  
+- 🎓 Completed **Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp**  
+- 🧪 Currently exploring **MLOps** through 10+ end-to-end ML projects  
+- 📈 Work consistently in **Jupyter Notebook**  
+- 📊 Strong grasp of **Matplotlib**, **Seaborn**, and **Statistics**  
+- 🤖 Building a **Self-Driving Car AI (SUMO)** as a passion project  
 - 🌏 Goal: Land a **Data Science/ML Job or Internship in Japan**
-
-
 
 ---
 
@@ -42,50 +43,54 @@
 
 <p align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ffb86c" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ffb86c" width="45%" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=8&theme=gruvbox&hide=tex&hide_border=true&title_color=8ec07c" alt="Top Languages" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=8&theme=gruvbox&hide=tex&hide_border=true&title_color=8ec07c" width="45%" />
 </p>
 
 <p align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=atul2501&theme=gruvbox&row=1&column=7&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=atul2501&theme=gruvbox&row=1&column=7&no-frame=true&margin-w=15" />
 </p>
 
 <p align="center">
   <!-- GitHub Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul2501&theme=react-dark&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff" alt="Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul2501&theme=react-dark&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff" />
 </p>
 
+<p align="center">
+  <!-- Snake Animation -->
+  <img src="https://raw.githubusercontent.com/atul2501/atul2501/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
 
 ### 🏆 Achievements
 
-- 🏅 Completed multiple bootcamps and projects (check pinned repos)
+- 🏅 Completed multiple bootcamps and projects (check pinned repos)  
 - 🔧 Built several ML workflows using **Conda**, **Jupyter**, and **Python**
 
 ---
 
 ### 📫 Let’s Connect
 
-[![Website](https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://blocktechvalidator.xyz)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xDavid_xyz)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-yadav-112063294/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatul247@gmail.com)
-
+<p align="center">
+  <a href="https://blocktechvalidator.xyz"><img src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
+  <a href="https://twitter.com/0xDavid_xyz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/atul-yadav-112063294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:yatul247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
 ---
 
 ### 🔍 Looking For
 
-- 🤝 Open to internships or job roles in **Machine Learning**, **Data Science**, or **MLOps**
+- 🤝 Open to internships or job roles in **Machine Learning**, **Data Science**, or **MLOps**  
 - 🌏 Especially interested in opportunities in **Japan**
 
 ---
 
 ### 😊 Fun Fact
 
-I love automating things and making AI projects feel like magic. Always curious, always learning.
-
-Email :- yatul247@gmail.com
-
+✨ I love automating things and making AI projects feel like magic. Always curious, always learning.
