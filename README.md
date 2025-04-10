@@ -1,5 +1,3 @@
-<h1 align="center">Hi 👋, I'm Atul Yadav</h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Atul+Yadav;MLOps+Explorer;Pythonic+Jupyter+Fan;Machine+Learning+Engineer;AI+Project+Builder" alt="Typing SVG" />
 </p>
