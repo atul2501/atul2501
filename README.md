@@ -11,7 +11,7 @@
 - 💪 A **hard worker** — I dive deep where my curiosity leads
 - 🎓 I’ve completed the **Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp**
 - 🧪 Currently exploring **MLOps** through 10+ end-to-end ML projects
-- 📈 Working consistently in **Jupyter Notebook** for the last **120+ days**
+- 📈 Working consistently in **Jupyter Notebook**
 - 📊 Strong grasp of **Matplotlib**, **Seaborn**, and **Statistics**
 - 🤖 Building a **Self-Driving Car AI (SUMO)** as a personal passion project
 - 🌏 Goal: Land a **Data Science/ML Job or Internship in Japan**
