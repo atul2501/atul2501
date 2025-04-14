@@ -25,9 +25,7 @@
 
 ---
 
-### 🧰 Tools & Tech
-
-## 🧠 Tech Stack & Tools I Use
+## 🧰 Tech Stack & Tools I Use
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -62,30 +60,23 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ffb86c" width="45%" />
-
-  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=8&theme=gruvbox&hide=tex&hide_border=true&title_color=8ec07c" width="45%" />
 </p>
 
 <p align="center">
-  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul2501&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
-  <!-- GitHub Trophies -->
   <img src="https://github-profile-trophy.vercel.app/?username=atul2501&theme=gruvbox&row=1&column=7&no-frame=true&margin-w=15" />
 </p>
 
 <p align="center">
-  <!-- GitHub Contribution Graph -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul2501&theme=react-dark&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff" />
 </p>
 
 <p align="center">
-  <!-- Snake Animation -->
   <img src="https://raw.githubusercontent.com/atul2501/atul2501/output/github-contribution-grid-snake.svg" />
 </p>
 
