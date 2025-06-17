@@ -49,11 +49,8 @@
 
 ## 🚀 Featured Projects
 
-- 🔍 [Customer Churn Prediction](https://github.com/atul2501/customer-churn-prediction)  
-  `Scikit-learn` | `Pandas` | `EDA` | `XGBoost`
-
-- 🤖 [Self-Driving Car AI (SUMO)](https://github.com/atul2501/sumo-ai-car)  
-  `SUMO` | `Computer Vision` | `Reinforcement Learning`
+- 🔍 [Movie Recommender System](https://github.com/atul2501/Movie_recommender_system.git)  
+  `Scikit-learn` | `Pandas` | `EDA` | `Nltk` 
 
 ---
 
