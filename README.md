@@ -52,8 +52,9 @@
 
 - 🔍 [Movie Recommender System](https://github.com/atul2501/Movie_recommender_system.git)  
   `Scikit-learn` | `Pandas` | `EDA` | `Nltk`  
-  🌐 **Live Demo:** [View Website](https://6830-2001-4858-aaaa-77-167-2f4c-64a-e012.ngrok-free.app/)
+  🌐 **Live Demo:** <a href="https://6830-2001-4858-aaaa-77-167-2f4c-64a-e012.ngrok-free.app/" target="_blank">View Website</a>
 ---
+
 
 ## 📊 GitHub Analytics
 
