@@ -50,9 +50,17 @@
 ---
 ## 🚀 Featured Projects
 
-- 🔍 [Movie Recommender System](https://github.com/atul2501/Movie_recommender_system.git)  
-  `Scikit-learn` | `Pandas` | `EDA` | `Nltk`  
-  🌐 **Live Demo:** <a href="https://6830-2001-4858-aaaa-77-167-2f4c-64a-e012.ngrok-free.app/" target="_blank">View Website</a>
+- 🎬 [Movie Recommender System](https://github.com/atul2501/Movie_recommender_system)
+  `Scikit-learn` | `Pandas` | `TMDB API` | `Streamlit`  
+  🌐 **Live Demo:** [View Website](https://6830-2001-4858-aaaa-77-167-2f4c-64a-e012.ngrok-free.app/)
+
+- 📊 [Student Math Marks Predictor](https://github.com/atul2501/Student-Exam-Performance-Predictor)
+  `Linear Regression` | `Scikit-learn` | `Matplotlib`  
+  🌐 **Live Demo:** [View Website](https://8ae4-13-220-150-30.ngrok-free.app/)
+
+- 🔐 [Network Security Simulation](https://github.com/atul2501/networksecurity)
+  `Wireshark` | `Firewall Rules` | `Packet Analysis`  
+  🌐 **Live Demo:** [View Website](https://movie-app-python.streamlit.app/)
 ---
 
 
