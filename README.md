@@ -1,18 +1,28 @@
 <div align="center">
 
-# Atul Yadav
-
-### Machine Learning Engineer · MLOps Explorer · Building AI That Ships
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions;10%2B+end-to-end+ML+projects+shipped;Building+a+Self-Driving+Car+AI+(SUMO);Targeting+ML%2FData+Science+roles+in+Japan" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:58A6FF&height=220&section=header&text=ATUL%20YADAV&fontSize=60&fontColor=F7931E&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20MLOps%20Explorer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <br/>
 
-[![Followers](https://img.shields.io/github/followers/atul2501?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/atul2501?tab=followers)
-[![Stars](https://img.shields.io/github/stars/atul2501?label=Stars&style=for-the-badge&color=F7931E&labelColor=0D1117)](https://github.com/atul2501?tab=repositories)
-[![Profile Views](https://komarev.com/ghpvc/?username=atul2501&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/atul2501)
+<table>
+<tr><td align="center">
+
+`◈` **EDITION** `ML-ENGINEER` &nbsp;|&nbsp; **SERIAL** `#2501` &nbsp;|&nbsp; **STATUS** `OPEN TO WORK`
+
+</td></tr>
+</table>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions;10%2B+end-to-end+ML+projects+shipped;Building+a+Self-Driving+Car+AI+(SUMO);Targeting+ML%2FData+Science+roles+in+Japan" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Followers](https://img.shields.io/github/followers/atul2501?label=FOLLOWERS&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/atul2501?tab=followers)
+[![Stars](https://img.shields.io/github/stars/atul2501?label=STARS&style=for-the-badge&color=F7931E&labelColor=0D1117)](https://github.com/atul2501?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=atul2501&style=for-the-badge&color=8B5CF6&label=VIEWS&labelColor=0D1117)](https://github.com/atul2501)
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:58A6FF,100:8B5CF6&height=3&width=100%25" width="100%"/>
 
 <br/>
 
@@ -83,13 +93,20 @@ class AtulYadav:
 
 <br/>
 
-## 🚀 Featured Projects
+## 🚀 Featured Collection
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
+<div align="center">
+
+`◈ MINT #01` &nbsp;·&nbsp; `RARITY: DEPLOYED`
+
 ### 🎬 Movie Recommender
+
+</div>
+
 Content-based recommendation engine using TMDB metadata, deployed as an interactive web app.
 
 `Scikit-learn` `Pandas` `TMDB API` `Streamlit`
@@ -100,7 +117,14 @@ Content-based recommendation engine using TMDB metadata, deployed as an interact
 </td>
 <td width="33%" valign="top">
 
+<div align="center">
+
+`◈ MINT #02` &nbsp;·&nbsp; `RARITY: DEPLOYED`
+
 ### 📊 Exam Score Predictor
+
+</div>
+
 Regression model predicting student math performance from behavioral and demographic features.
 
 `Linear Regression` `Scikit-learn` `Matplotlib`
@@ -111,7 +135,14 @@ Regression model predicting student math performance from behavioral and demogra
 </td>
 <td width="33%" valign="top">
 
+<div align="center">
+
+`◈ MINT #03` &nbsp;·&nbsp; `RARITY: DEPLOYED`
+
 ### 🔐 Network Security Analysis
+
+</div>
+
 Simulated network defense workflow covering traffic inspection and firewall rule design.
 
 `Wireshark` `Firewall Rules` `Packet Analysis`
@@ -123,18 +154,24 @@ Simulated network defense workflow covering traffic inspection and firewall rule
 </tr>
 </table>
 
+<div align="center">
+
+`◈ MINT #04` &nbsp;·&nbsp; `RARITY: IN PROGRESS` &nbsp;·&nbsp; 🚗 **Self-Driving Car AI (SUMO Simulation)** — reinforcement learning + traffic simulation, coming soon
+
+</div>
+
 <br/>
 
-## 📈 GitHub Analytics
+## 📈 On-Chain Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=F7931E&text_color=C9D1D9&bg_color=0D1117" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=58A6FF&bg_color=0D1117" width="42%" />
+<img src="https://github-stats-extended.vercel.app/api?username=atul2501&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=F7931E&text_color=C9D1D9&bg_color=0D1117" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=58A6FF&bg_color=0D1117" width="42%" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atul2501&theme=tokyonight&hide_border=true&background=0D1117" width="90%" />
+<img src="https://streak-stats.demolab.com?user=atul2501&theme=tokyonight&hide_border=true&background=0D1117" width="90%" />
 
 <br/>
 
@@ -149,6 +186,8 @@ Simulated network defense workflow covering traffic inspection and firewall rule
 <img src="https://raw.githubusercontent.com/atul2501/atul2501/output/github-contribution-grid-snake.svg" width="95%" />
 
 </div>
+
+> **Note:** these cards are dynamic SVGs generated live by third-party services (not hosted by GitHub), so they occasionally break if a service is rate-limited or temporarily down. This version already points at the currently-working mirrors (`github-stats-extended.vercel.app` instead of the frequently-down `github-readme-stats.vercel.app`, and `streak-stats.demolab.com` instead of the now-dead Heroku domain). If a card ever goes blank again on GitHub, replace `atul2501` with your username at the linked demo sites to confirm the service is up, or self-host via the project's GitHub Action for guaranteed uptime.
 
 <br/>
 
@@ -170,3 +209,5 @@ Simulated network defense workflow covering traffic inspection and firewall rule
 *"In God we trust. All others must bring data."* — W. Edwards Deming
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1B2A4A,100:0D1117&height=100&section=footer" width="100%"/>
