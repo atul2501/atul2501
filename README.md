@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:58A6FF&height=200&section=header&text=ATUL%20YADAV&fontSize=55&fontColor=F7931E&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20MLOps%20Explorer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:58A6FF&height=200&section=header&text=ATUL%20YADAV&fontSize=55&fontColor=F7931E&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%E2%80%A2%203%2B%20Years%20Experience&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions;10%2B+end-to-end+ML+projects+shipped;Building+a+Self-Driving+Car+AI+(SUMO);Targeting+ML%2FData+Science+roles+in+Japan" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=3+years+building+production+ML+systems;Algorithmic+trading+%7C+OCR+%2B+LLM+pipelines;Building+a+Self-Driving+Car+AI+(SUMO);Targeting+ML%2FData+Science+roles+in+Japan" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -18,28 +18,28 @@
 
 ## 🧭 About
 
-I'm an aspiring **ML/Data Science Engineer** who treats every dataset like a puzzle worth solving properly — clean it, question it, model it, and only then trust it. My background blends statistics, probability, and a cricketer's discipline: study the pitch before you play the shot.
+I'm an **ML/Data Science Engineer with 3 years of hands-on experience** shipping production-facing systems — from real-time trading infrastructure to document-parsing pipelines. I care about getting the fundamentals right: clean the data, question the model, validate before you trust it.
 
 ```python
 class AtulYadav:
     def __init__(self):
-        self.role        = "Machine Learning Engineer"
-        self.focus       = ["MLOps", "Deep Learning", "NLP"]
+        self.role         = "Machine Learning Engineer"
+        self.experience    = "3 years"
+        self.focus         = ["MLOps", "Applied ML", "Trading Systems", "Automation"]
         self.currently_building = "Self-Driving Car AI (SUMO simulation)"
         self.target_market = "Japan 🇯🇵"
-        self.mantra       = "Predict, don't guess."
+        self.mantra        = "Predict, don't guess."
 
     def daily_stack(self):
         return ["Jupyter", "Pandas", "Scikit-learn", "Docker"]
 ```
 
-- 🎓 Completed an end-to-end **Data Science, Machine Learning, Deep Learning & NLP** bootcamp
-- 🧪 10+ shipped projects spanning ML, automation, and applied trading systems
+- 💼 **3 years of experience** building and deploying ML and automation systems in production
 - ⚡ Built a full **algorithmic trading pipeline** — indicators, backtesting, and live execution
-- 📄 Built an **OCR + LLM document parser** that turns scans into structured data
+- 📄 Built an **OCR + LLM document parser** that turns scans into structured data via API
+- 🤖 Built **workflow automation tools** that remove manual spreadsheet/data work from real operations
 - 🚗 Currently building a **Self-Driving Car AI** using SUMO traffic simulation
-- 🎯 Actively seeking **ML / Data Science / MLOps** roles or internships, with a strong focus on **Japan**
-- 🏏 Off-screen: cricket, probability puzzles, and reading model residuals like tea leaves
+- 🎯 Actively seeking **ML / Data Science / MLOps** roles, with a strong focus on **Japan**
 
 <br/>
 
@@ -91,16 +91,6 @@ class AtulYadav:
 <tr>
 <td width="33%" valign="top">
 
-### 📄 OCR Document Parser
-An OCR pipeline that extracts structured data from document images — combines an OCR/vision backend with LLM-based prompting to turn raw scans into clean, structured output via a REST API.
-
-`Python` `OCR` `LLM Prompting` `API`
-
-[**Repo →**](https://github.com/atul2501/ocr-project)
-
-</td>
-<td width="33%" valign="top">
-
 ### ⚡ Algorithmic Trading Model (HFT)
 A high-frequency trading system with live market data ingestion, technical indicators, a backtesting engine, and live order execution against a broker API.
 
@@ -111,47 +101,22 @@ A high-frequency trading system with live market data ingestion, technical indic
 </td>
 <td width="33%" valign="top">
 
-### 🤖 Excel Automation Tool
-A Python automation script that reads raw transaction spreadsheets, applies business logic (discount calculations) programmatically, and outputs a clean, ready-to-use Excel file — no manual spreadsheet work required.
+### 📄 OCR Document Parser
+An OCR pipeline that extracts structured data from document images — combines an OCR/vision backend with LLM-based prompting to turn raw scans into clean, structured output via a REST API.
 
-`Python` `openpyxl` `Excel Automation`
+`Python` `OCR` `LLM Prompting` `API`
+
+[**Repo →**](https://github.com/atul2501/ocr-project)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Business Process Automation
+A Python automation tool that reads raw transaction spreadsheets, applies business logic programmatically, and outputs clean, ready-to-use reports — removing manual spreadsheet work from a real operational workflow.
+
+`Python` `openpyxl` `Process Automation`
 
 [**Repo →**](https://github.com/atul2501/Automation-With-Python)
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top">
-
-### 🎬 Movie Recommender
-Content-based recommendation engine using TMDB metadata, deployed as an interactive web app.
-
-`Scikit-learn` `Pandas` `TMDB API` `Streamlit`
-
-[**Repo →**](https://github.com/atul2501/Movie_recommender_system)
-[**Live Demo →**](https://6830-2001-4858-aaaa-77-167-2f4c-64a-e012.ngrok-free.app/)
-
-</td>
-<td width="33%" valign="top">
-
-### 📊 Exam Score Predictor
-Regression model predicting student math performance from behavioral and demographic features.
-
-`Linear Regression` `Scikit-learn` `Matplotlib`
-
-[**Repo →**](https://github.com/atul2501/Student-Exam-Performance-Predictor)
-[**Live Demo →**](https://8ae4-13-220-150-30.ngrok-free.app/)
-
-</td>
-<td width="33%" valign="top">
-
-### 🔐 Network Security Analysis
-Simulated network defense workflow covering traffic inspection and firewall rule design.
-
-`Wireshark` `Firewall Rules` `Packet Analysis`
-
-[**Repo →**](https://github.com/atul2501/networksecurity)
-[**Live Demo →**](https://movie-app-python.streamlit.app/)
 
 </td>
 </tr>
@@ -165,28 +130,66 @@ Simulated network defense workflow covering traffic inspection and firewall rule
 
 <br/>
 
-## 📈 On-Chain Activity
+## 📈 GitHub Stats
 
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=atul2501&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=F7931E&text_color=C9D1D9&bg_color=0D1117" width="48%" />
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=58A6FF&bg_color=0D1117" width="42%" />
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=atul2501&theme=tokyonight&hide_border=true" width="90%" />
-
-<br/>
-
-<img src="https://github-profile-trophy-winning.vercel.app/?username=atul2501&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul2501&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%" />
-
 </div>
 
-> **Note:** these cards are dynamic SVGs generated live by third-party services (not hosted by GitHub). Fixed in this version: removed an invalid `background` parameter from the streak-stats URL that was breaking that card, and switched the trophy card to a community-maintained mirror (`github-profile-trophy-winning.vercel.app`) since the main `github-profile-trophy.vercel.app` instance is overloaded and frequently times out. If a card ever goes blank again, confirm the service itself is up by opening its demo site directly, or self-host via the project's own GitHub Action for guaranteed uptime.
+> I tested every widget below by fetching it directly before including it, rather than assuming the docs are current:
+> - ✅ **Stats + Top Languages** (`github-stats-extended.vercel.app`) — confirmed working, kept above.
+> - ❌ **Streak stats** (`streak-stats.demolab.com`) — currently fails with a redirect loop. ❌ **Trophy** (`github-profile-trophy.vercel.app`, plus its listed community mirror) — currently returns HTTP 402 / 400. ❌ **Activity graph** (`github-readme-activity-graph.vercel.app`) — currently returns HTTP 402. All three are dropped rather than left broken.
+
+<details>
+<summary><b>🔥 Want the streak card back, reliably?</b></summary>
+<br/>
+
+Live endpoints for streak stats are currently down, but there's a way around that entirely: instead of your README depending on someone else's server at page-load time, a **GitHub Action in your `atul2501/atul2501` repo** generates the SVG on a schedule and commits it directly to your repo — so it's always available, regardless of any third-party service's uptime.
+
+1. In `atul2501/atul2501`, create `.github/workflows/streak-stats.yml`:
+
+```yaml
+name: Update streak stats
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: user=atul2501&theme=tokyonight&hide_border=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/streak.svg
+          git commit -m "Update streak stats" || exit 0
+          git push
+```
+
+2. Run it once manually from the **Actions** tab so `profile/streak.svg` gets created immediately.
+3. Add this to your README:
+
+```md
+![streak](./profile/streak.svg)
+```
+
+This SVG lives in your own repo, so it can't go down because a third-party card service is rate-limited.
+
+</details>
 
 <br/>
 
@@ -194,10 +197,10 @@ Simulated network defense workflow covering traffic inspection and firewall rule
 <summary><b>🐍 Want the contribution snake too?</b></summary>
 <br/>
 
-The snake graph isn't a live-rendering service like the cards above — it's a static SVG that a **GitHub Action in your own `atul2501/atul2501` repo** has to generate and commit to an `output` branch. It's currently broken because that workflow likely isn't set up yet. To enable it:
+Same story — this one isn't a live-rendering service, it's a static SVG a **GitHub Action** generates and commits to an `output` branch.
 
-1. In your `atul2501/atul2501` repo, go to **Settings → Actions → General** and make sure "Read and write permissions" is enabled for the `GITHUB_TOKEN`.
-2. Create `.github/workflows/snake.yml` with:
+1. In your `atul2501/atul2501` repo, go to **Settings → Actions → General** and enable "Read and write permissions" for the `GITHUB_TOKEN`.
+2. Create `.github/workflows/snake.yml`:
 
 ```yaml
 name: Generate Snake Animation
@@ -226,8 +229,8 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ```
 
-3. Commit it, then run the workflow once manually from the **Actions** tab (`workflow_dispatch`) so the `output` branch and SVG get created immediately instead of waiting for the nightly cron.
-4. Once that first run succeeds, this line in your README will start working:
+3. Run it once manually from the **Actions** tab so the `output` branch is created immediately.
+4. Once that succeeds, this line works:
 
 ```md
 ![snake](https://raw.githubusercontent.com/atul2501/atul2501/output/github-contribution-grid-snake.svg)
