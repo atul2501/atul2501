@@ -174,23 +174,66 @@ Simulated network defense workflow covering traffic inspection and firewall rule
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=atul2501&theme=tokyonight&hide_border=true&background=0D1117" width="90%" />
+<img src="https://streak-stats.demolab.com?user=atul2501&theme=tokyonight&hide_border=true" width="90%" />
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=atul2501&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=atul2501&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15" />
 
 <br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul2501&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%" />
 
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/atul2501/atul2501/output/github-contribution-grid-snake.svg" width="95%" />
-
 </div>
 
-> **Note:** these cards are dynamic SVGs generated live by third-party services (not hosted by GitHub), so they occasionally break if a service is rate-limited or temporarily down. This version already points at the currently-working mirrors (`github-stats-extended.vercel.app` instead of the frequently-down `github-readme-stats.vercel.app`, and `streak-stats.demolab.com` instead of the now-dead Heroku domain). If a card ever goes blank again on GitHub, replace `atul2501` with your username at the linked demo sites to confirm the service is up, or self-host via the project's GitHub Action for guaranteed uptime.
+> **Note:** these cards are dynamic SVGs generated live by third-party services (not hosted by GitHub). Fixed in this version: removed an invalid `background` parameter from the streak-stats URL that was breaking that card, and switched the trophy card to a community-maintained mirror (`github-profile-trophy-winning.vercel.app`) since the main `github-profile-trophy.vercel.app` instance is overloaded and frequently times out. If a card ever goes blank again, confirm the service itself is up by opening its demo site directly, or self-host via the project's own GitHub Action for guaranteed uptime.
+
+<br/>
+
+<details>
+<summary><b>🐍 Want the contribution snake too?</b></summary>
+<br/>
+
+The snake graph isn't a live-rendering service like the cards above — it's a static SVG that a **GitHub Action in your own `atul2501/atul2501` repo** has to generate and commit to an `output` branch. It's currently broken because that workflow likely isn't set up yet. To enable it:
+
+1. In your `atul2501/atul2501` repo, go to **Settings → Actions → General** and make sure "Read and write permissions" is enabled for the `GITHUB_TOKEN`.
+2. Create `.github/workflows/snake.yml` with:
+
+```yaml
+name: Generate Snake Animation
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: atul2501
+          outputs: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+3. Commit it, then run the workflow once manually from the **Actions** tab (`workflow_dispatch`) so the `output` branch and SVG get created immediately instead of waiting for the nightly cron.
+4. Once that first run succeeds, this line in your README will start working:
+
+```md
+![snake](https://raw.githubusercontent.com/atul2501/atul2501/output/github-contribution-grid-snake.svg)
+```
+
+</details>
 
 <br/>
 
