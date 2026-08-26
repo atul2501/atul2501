@@ -1,119 +1,172 @@
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=500&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Atul+Yadav;MLOps+Explorer;Pythonic+Jupyter+Fan;Machine+Learning+Engineer;AI+Project+Builder" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/github/followers/atul2501?label=Follow&style=social" />
-  <img src="https://img.shields.io/github/stars/atul2501?style=social" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=atul2501" />
-</p>
+# Atul Yadav
 
----
+### Machine Learning Engineer · MLOps Explorer · Building AI That Ships
 
-## 🙋‍♂️ About Me
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions;10%2B+end-to-end+ML+projects+shipped;Building+a+Self-Driving+Car+AI+(SUMO);Targeting+ML%2FData+Science+roles+in+Japan" alt="Typing SVG" />
 
-- 🏏 Love **cricket** — passion and discipline on the field  
-- 🎲 Love **probability** — predicting outcomes is exciting  
-- 💭 Always **thinking differently** — unique ideas drive innovation  
-- 💪 A **hard worker** — I dive deep where my curiosity leads  
-- 🎓 Completed **Complete Data Science, Machine Learning, Deep Learning, NLP Bootcamp**  
-- 🧪 Currently exploring **MLOps** through 10+ end-to-end ML projects  
-- 📈 Work consistently in **Jupyter Notebook**  
-- 📊 Strong grasp of **Matplotlib**, **Seaborn**, and **Statistics**  
-- 🤖 Building a **Self-Driving Car AI (SUMO)** as a passion project  
-- 🌏 Goal: Land a **Data Science/ML Job or Internship in Japan**
+<br/>
 
----
+[![Followers](https://img.shields.io/github/followers/atul2501?label=Followers&style=for-the-badge&color=58A6FF&labelColor=0D1117)](https://github.com/atul2501?tab=followers)
+[![Stars](https://img.shields.io/github/stars/atul2501?label=Stars&style=for-the-badge&color=F7931E&labelColor=0D1117)](https://github.com/atul2501?tab=repositories)
+[![Profile Views](https://komarev.com/ghpvc/?username=atul2501&style=for-the-badge&color=blueviolet&label=Profile+Views)](https://github.com/atul2501)
 
-## 🧰 Tech Stack & Tools I Use
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
-  <img src="https://img.shields.io/badge/Seaborn-0C5A5D?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+<br/>
 
+## 🧭 About
 
----
+I'm an aspiring **ML/Data Science Engineer** who treats every dataset like a puzzle worth solving properly — clean it, question it, model it, and only then trust it. My background blends statistics, probability, and a cricketer's discipline: study the pitch before you play the shot.
+
+```python
+class AtulYadav:
+    def __init__(self):
+        self.role        = "Machine Learning Engineer"
+        self.focus       = ["MLOps", "Deep Learning", "NLP"]
+        self.currently_building = "Self-Driving Car AI (SUMO simulation)"
+        self.target_market = "Japan 🇯🇵"
+        self.mantra       = "Predict, don't guess."
+
+    def daily_stack(self):
+        return ["Jupyter", "Pandas", "Scikit-learn", "Docker"]
+```
+
+- 🎓 Completed an end-to-end **Data Science, Machine Learning, Deep Learning & NLP** bootcamp
+- 🧪 10+ shipped ML projects — from EDA to deployed apps
+- 🚗 Currently building a **Self-Driving Car AI** using SUMO traffic simulation
+- 🎯 Actively seeking **ML / Data Science / MLOps** roles or internships, with a strong focus on **Japan**
+- 🏏 Off-screen: cricket, probability puzzles, and reading model residuals like tea leaves
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+**Languages & Core**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+**ML / Data**
+<br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=matplotlib&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-0C5A5D?style=flat-square&logo=python&logoColor=white"/>
+
+</td>
+<td valign="top" width="50%">
+
+**Deployment & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white"/>
+
+**Data Collection & Workflow**
+<br/>
+<img src="https://img.shields.io/badge/BeautifulSoup-4B0082?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 🚀 Featured Projects
 
-- 🎬 [Movie Recommender System](https://github.com/atul2501/Movie_recommender_system)
-  `Scikit-learn` | `Pandas` | `TMDB API` | `Streamlit`  
-  🌐 **Live Demo:** [View Website](https://6830-2001-4858-aaaa-77-167-2f4c-64a-e012.ngrok-free.app/)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-- 📊 [Student Math Marks Predictor](https://github.com/atul2501/Student-Exam-Performance-Predictor)
-  `Linear Regression` | `Scikit-learn` | `Matplotlib`  
-  🌐 **Live Demo:** [View Website](https://8ae4-13-220-150-30.ngrok-free.app/)
+### 🎬 Movie Recommender
+Content-based recommendation engine using TMDB metadata, deployed as an interactive web app.
 
-- 🔐 [Network Security Simulation](https://github.com/atul2501/networksecurity)
-  `Wireshark` | `Firewall Rules` | `Packet Analysis`  
-  🌐 **Live Demo:** [View Website](https://movie-app-python.streamlit.app/)
----
+`Scikit-learn` `Pandas` `TMDB API` `Streamlit`
 
+[**Repo →**](https://github.com/atul2501/Movie_recommender_system)
+[**Live Demo →**](https://6830-2001-4858-aaaa-77-167-2f4c-64a-e012.ngrok-free.app/)
 
-## 📊 GitHub Analytics
+</td>
+<td width="33%" valign="top">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=radical&hide_border=true&title_color=ff69b4&icon_color=ffb86c" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=8&theme=gruvbox&hide=tex&hide_border=true&title_color=8ec07c" width="45%" />
-</p>
+### 📊 Exam Score Predictor
+Regression model predicting student math performance from behavioral and demographic features.
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atul2501&theme=radical&hide_border=true" />
-</p>
+`Linear Regression` `Scikit-learn` `Matplotlib`
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=atul2501&theme=gruvbox&row=1&column=7&no-frame=true&margin-w=15" />
-</p>
+[**Repo →**](https://github.com/atul2501/Student-Exam-Performance-Predictor)
+[**Live Demo →**](https://8ae4-13-220-150-30.ngrok-free.app/)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atul2501&theme=react-dark&hide_border=true&bg_color=0D1117&color=58a6ff&line=58a6ff&point=ffffff" />
-</p>
+</td>
+<td width="33%" valign="top">
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/atul2501/atul2501/output/github-contribution-grid-snake.svg" />
-</p>
+### 🔐 Network Security Analysis
+Simulated network defense workflow covering traffic inspection and firewall rule design.
 
----
+`Wireshark` `Firewall Rules` `Packet Analysis`
 
-### 🏆 Achievements
+[**Repo →**](https://github.com/atul2501/networksecurity)
+[**Live Demo →**](https://movie-app-python.streamlit.app/)
 
-- 🏅 Completed multiple bootcamps and projects (check pinned repos)  
-- 🔧 Built several ML workflows using **Conda**, **Jupyter**, and **Python**
+</td>
+</tr>
+</table>
 
----
+<br/>
 
-### 📫 Let’s Connect
+## 📈 GitHub Analytics
 
-<p align="center">
-  <a href="https://blocktechvalidator.xyz"><img src="https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=Google-Chrome&logoColor=white" /></a>
-  <a href="https://twitter.com/0xDavid_xyz"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/atul-yadav-112063294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:yatul247@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<div align="center">
 
----
+<img src="https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&theme=tokyonight&hide_border=true&title_color=58A6FF&icon_color=F7931E&text_color=C9D1D9&bg_color=0D1117" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=58A6FF&bg_color=0D1117" width="42%" />
 
-### 🔍 Looking For
+<br/>
 
-- 🤝 Open to internships or job roles in **Machine Learning**, **Data Science**, or **MLOps**  
-- 🌏 Especially interested in opportunities in **Japan**
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=atul2501&theme=tokyonight&hide_border=true&background=0D1117" width="90%" />
 
----
+<br/>
 
-### 😊 Fun Fact
+<img src="https://github-profile-trophy.vercel.app/?username=atul2501&theme=tokyonight&row=1&column=7&no-frame=true&margin-w=15" />
 
-✨ I love automating things and making AI projects feel like magic. Always curious, always learning.
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul2501&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF" width="95%" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/atul2501/atul2501/output/github-contribution-grid-snake.svg" width="95%" />
+
+</div>
+
+<br/>
+
+## 📫 Let's Connect
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-FFA500?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://blocktechvalidator.xyz)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atul-yadav-112063294/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/0xDavid_xyz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yatul247@gmail.com)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+*"In God we trust. All others must bring data."* — W. Edwards Deming
+
+</div>
