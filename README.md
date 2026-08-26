@@ -1,16 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:58A6FF&height=220&section=header&text=ATUL%20YADAV&fontSize=60&fontColor=F7931E&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20MLOps%20Explorer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
-
-<br/>
-
-<table>
-<tr><td align="center">
-
-`◈` **EDITION** `ML-ENGINEER` &nbsp;|&nbsp; **SERIAL** `#2501` &nbsp;|&nbsp; **STATUS** `OPEN TO WORK`
-
-</td></tr>
-</table>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B2A4A,100:58A6FF&height=200&section=header&text=ATUL%20YADAV&fontSize=55&fontColor=F7931E&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20Engineer%20%E2%80%A2%20MLOps%20Explorer&descAlignY=58&descAlign=50&descSize=18" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Turning+data+into+decisions;10%2B+end-to-end+ML+projects+shipped;Building+a+Self-Driving+Car+AI+(SUMO);Targeting+ML%2FData+Science+roles+in+Japan" alt="Typing SVG" />
 
@@ -44,7 +34,9 @@ class AtulYadav:
 ```
 
 - 🎓 Completed an end-to-end **Data Science, Machine Learning, Deep Learning & NLP** bootcamp
-- 🧪 10+ shipped ML projects — from EDA to deployed apps
+- 🧪 10+ shipped projects spanning ML, automation, and applied trading systems
+- ⚡ Built a full **algorithmic trading pipeline** — indicators, backtesting, and live execution
+- 📄 Built an **OCR + LLM document parser** that turns scans into structured data
 - 🚗 Currently building a **Self-Driving Car AI** using SUMO traffic simulation
 - 🎯 Actively seeking **ML / Data Science / MLOps** roles or internships, with a strong focus on **Japan**
 - 🏏 Off-screen: cricket, probability puzzles, and reading model residuals like tea leaves
@@ -93,20 +85,45 @@ class AtulYadav:
 
 <br/>
 
-## 🚀 Featured Collection
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<div align="center">
+### 📄 OCR Document Parser
+An OCR pipeline that extracts structured data from document images — combines an OCR/vision backend with LLM-based prompting to turn raw scans into clean, structured output via a REST API.
 
-`◈ MINT #01` &nbsp;·&nbsp; `RARITY: DEPLOYED`
+`Python` `OCR` `LLM Prompting` `API`
+
+[**Repo →**](https://github.com/atul2501/ocr-project)
+
+</td>
+<td width="33%" valign="top">
+
+### ⚡ Algorithmic Trading Model (HFT)
+A high-frequency trading system with live market data ingestion, technical indicators, a backtesting engine, and live order execution against a broker API.
+
+`Python` `Backtesting` `Trading Indicators` `Live Execution`
+
+[**Repo →**](https://github.com/atul2501/DQM-model-for-HFT)
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Excel Automation Tool
+A Python automation script that reads raw transaction spreadsheets, applies business logic (discount calculations) programmatically, and outputs a clean, ready-to-use Excel file — no manual spreadsheet work required.
+
+`Python` `openpyxl` `Excel Automation`
+
+[**Repo →**](https://github.com/atul2501/Automation-With-Python)
+
+</td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
 ### 🎬 Movie Recommender
-
-</div>
-
 Content-based recommendation engine using TMDB metadata, deployed as an interactive web app.
 
 `Scikit-learn` `Pandas` `TMDB API` `Streamlit`
@@ -117,14 +134,7 @@ Content-based recommendation engine using TMDB metadata, deployed as an interact
 </td>
 <td width="33%" valign="top">
 
-<div align="center">
-
-`◈ MINT #02` &nbsp;·&nbsp; `RARITY: DEPLOYED`
-
 ### 📊 Exam Score Predictor
-
-</div>
-
 Regression model predicting student math performance from behavioral and demographic features.
 
 `Linear Regression` `Scikit-learn` `Matplotlib`
@@ -135,14 +145,7 @@ Regression model predicting student math performance from behavioral and demogra
 </td>
 <td width="33%" valign="top">
 
-<div align="center">
-
-`◈ MINT #03` &nbsp;·&nbsp; `RARITY: DEPLOYED`
-
 ### 🔐 Network Security Analysis
-
-</div>
-
 Simulated network defense workflow covering traffic inspection and firewall rule design.
 
 `Wireshark` `Firewall Rules` `Packet Analysis`
@@ -156,7 +159,7 @@ Simulated network defense workflow covering traffic inspection and firewall rule
 
 <div align="center">
 
-`◈ MINT #04` &nbsp;·&nbsp; `RARITY: IN PROGRESS` &nbsp;·&nbsp; 🚗 **Self-Driving Car AI (SUMO Simulation)** — reinforcement learning + traffic simulation, coming soon
+🚗 Also building: **Self-Driving Car AI (SUMO Simulation)** — reinforcement learning + traffic simulation, in progress
 
 </div>
 
