@@ -53,6 +53,8 @@ My technical interests include **Python, SQL, Backend Development, Data Analytic
 
 </div>
 
+---
+
 ## Featured Projects
 
 ### 1. Algorithmic Trading & Quantitative Research
@@ -100,6 +102,8 @@ Exploring intelligent vehicle behaviour and traffic systems through SUMO simulat
 
 **Technologies:** `Python` `SUMO` `Reinforcement Learning` `Simulation`
 
+---
+
 ## Current Interests
 
 - Python engineering and backend development
@@ -111,17 +115,33 @@ Exploring intelligent vehicle behaviour and traffic systems through SUMO simulat
 
 I'm interested in opportunities across **Python Development, Backend Engineering, SQL, Data Analytics, Data Engineering, Data Science, and AI/ML Engineering**. I'm also interested in international opportunities, particularly in Japan.
 
-## GitHub Activity
+---
+
+## GitHub Stats & Contributions
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&hide_border=true&bg_color=0D1117&title_color=75B7FF&icon_color=F2A65A&text_color=C7D2E2)](https://github.com/atul2501)
+### GitHub Profile Overview
 
-[![GitHub streak](https://streak-stats.demolab.com?user=atul2501&hide_border=true&background=0D1117&ring=75B7FF&fire=F2A65A&currStreakLabel=75B7FF&sideLabels=C7D2E2&dates=8292A8&currStreakNum=FFFFFF&sideNums=FFFFFF)](https://github.com/atul2501)
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=atul2501&theme=github_dark" alt="GitHub profile summary" />
 
-![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=atul2501&bg_color=0D1117&color=9BBCE5&line=438DE0&point=F2A65A&area=true&hide_border=true)
+### GitHub Statistics
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=atul2501&theme=github_dark" alt="GitHub statistics" />
+
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atul2501&theme=github_dark" alt="Most committed languages" />
+
+### Contribution Activity
+
+<img width="100%" src="https://ghchart.rshah.org/409ba5/atul2501" alt="GitHub contribution calendar" />
+
+### Contribution Streak
+
+<img src="https://streak-stats.demolab.com?user=atul2501&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
 
 </div>
+
+---
 
 ## Let's Connect
 
