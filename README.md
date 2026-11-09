@@ -131,10 +131,6 @@ I'm interested in opportunities across **Python Development, Backend Engineering
 
 <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=atul2501&theme=github_dark" alt="Most committed languages" />
 
-### Contribution Activity
-
-<img width="100%" src="https://ghchart.rshah.org/409ba5/atul2501" alt="GitHub contribution calendar" />
-
 ### Contribution Streak
 
 <img src="https://streak-stats.demolab.com?user=atul2501&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak" />
