@@ -31,6 +31,7 @@ class AtulYadav:
 
     principle = "Understand the data. Engineer the solution."
 ```
+---
 What I Work On
 Area	Focus
 Python & Backend	Application logic, REST APIs, reusable components, and workflow automation
@@ -41,7 +42,7 @@ Engineering & Delivery	Docker, Linux, AWS, PostgreSQL, MySQL, and ERPNext/Frappe
 ---
 Technology Stack
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql&theme=dark" alt="Python, backend and database technologies" />
+  <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql&theme=dark" alt="Python and backend technologies" />
   <br />
   <img src="https://skillicons.dev/icons?i=pytorch,opencv,aws,docker,linux,git,github,vscode&theme=dark" alt="AI, cloud and developer tools" />
   <br /><br />
@@ -53,6 +54,7 @@ Technology Stack
   <img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logo=python&logoColor=white" alt="BeautifulSoup" />
   <img src="https://img.shields.io/badge/OCR%20%26%20LLMs-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="OCR and LLMs" />
 </div>
+---
 Featured Projects
 01. Algorithmic Trading & Quantitative Research
 A research-oriented trading system focused on market data, strategy evaluation, backtesting, and automated execution.
@@ -83,14 +85,15 @@ Exploring intelligent vehicle behaviour and traffic systems using SUMO simulatio
 Tech: `Python` `SUMO` `Reinforcement Learning` `Simulation`
 ---
 Current Interests
-
 Python engineering and backend development
 SQL, database design, and query optimization
 Data analytics, data science, and business intelligence
 Data engineering and ETL pipelines
 Machine learning and applied AI
 OCR, document intelligence, and LLM workflows
-I'm open to opportunities in Python Development, Backend Engineering, SQL, Data Analytics, Data Engineering, Data Science, and AI/ML Engineering. I'm also interested in international opportunities, particularly in Japan.
+I'm interested in opportunities across Python Development, Backend Engineering, SQL, Data Analytics, Data Engineering, Data Science, and AI/ML Engineering.
+I'm also interested in international opportunities, particularly in Japan.
+---
 GitHub Activity
 <div align="center">
   <a href="https://github.com/atul2501">
@@ -105,15 +108,15 @@ GitHub Activity
 ---
 Let's Connect
 Have an interesting problem or project? Let's connect.
-<p align="center">
+<div align="center">
   <a href="mailto:yatul247@gmail.com">Email</a> ·
   <a href="https://www.linkedin.com/in/atul-yadav-112063294/">LinkedIn</a> ·
   <a href="https://github.com/atul2501">GitHub</a> ·
   <a href="https://blocktechvalidator.xyz">Website</a>
-</p>
-<div align="center">
-  <em>“In God we trust. All others must bring data.” — commonly attributed to W. Edwards Deming</em>
+  <br /><br />
+  <em>“In God we trust. All others must bring data.”</em>
+  <br />
+  <sub>Built with curiosity · Focused on engineering · Always learning</sub>
   <br /><br />
   <img src="https://capsule-render.vercel.app/api?type=waving&height=115&section=footer&color=0:2563EB,55:17365D,100:0B1220" width="100%" alt="Footer banner" />
-  <sub>Built with curiosity · Focused on engineering · Always learning</sub>
 </div>
