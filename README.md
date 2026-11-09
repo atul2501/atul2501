@@ -1,313 +1,148 @@
- <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080D18,40:142B4D,100:2563EB&height=220&section=header&text=ATUL%20YADAV&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=SOFTWARE%20ENGINEERING%20%7C%20DATA%20%7C%20AI&descAlignY=60&descSize=16" width="100%"/>
-
-<a href="https://github.com/atul2501">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=55&lines=Python+Software+Developer;Data+Engineering+%26+Data+Analytics;SQL+%7C+Python+%7C+Machine+Learning;Building+Intelligent+Data-Driven+Systems;Turning+Complex+Problems+Into+Solutions" alt="Animated professional introduction"/>
-</a>
-
-<br/>
-
-**4+ Years of Professional Experience**
-
-[LinkedIn](https://www.linkedin.com/in/atul-yadav-112063294/) · [GitHub](https://github.com/atul2501) · [Portfolio](https://blocktechvalidator.xyz) · [Email](mailto:yatul247@gmail.com)
-
-</div>
-
----
-
 <div align="center">
-
-### ENGINEERING PROFILE
-
-| 4+ Years | 95%+ | 70% | 50K+ |
-|:---:|:---:|:---:|:---:|
-| Experience | OCR Accuracy | Manual Work Reduction | Records Processed |
-
-<sub>Professional experience and project results as described in my resume.</sub>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:070B14,45:102746,100:2563EB&text=ATUL%20YADAV&fontSize=58&fontColor=F4F7FB&fontAlignY=38&desc=PYTHON%20%2F%20DATA%20%2F%20AI%20ENGINEERING&descAlignY=60&descSize=16&animation=fadeIn" width="100%" alt="Atul Yadav — Python, Data and AI Engineering"/>
+<a href="https://readme-typing-svg.demolab.com">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2600&pause=850&color=75B7FF&center=true&vCenter=true&width=760&height=48&lines=Python+Developer+%7C+Backend+Engineering;SQL+%7C+Data+Analytics+%7C+Data+Engineering;Machine+Learning+%7C+OCR+%7C+LLM+Pipelines;Building+useful+systems+from+complex+problems" alt="Animated role and interests"/>
+</a>
+<br/>
+<a href="https://github.com/atul2501"><img src="https://img.shields.io/badge/GitHub-atul2501-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/atul-yadav-112063294/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:yatul247@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://blocktechvalidator.xyz"><img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+<br/><br/>
+<img src="https://komarev.com/ghpvc/?username=atul2501&style=flat-square&color=2563EB&label=PROFILE+VIEWS" alt="Profile views"/>
 </div>
-
-## 01 — ABOUT ME
-
-I'm **Atul Yadav**, a Python Software Developer with professional experience in backend development, data engineering, data analytics, automation and applied AI.
-
-I enjoy working across the complete data lifecycle — collecting raw data, processing it with Python and SQL, transforming it into meaningful information, and building applications that deliver business value.
-
-My technical interests include:
-
-- **Python Development:** Application development, OOP, Django, Flask and FastAPI.
-- **SQL & Databases:** Complex queries, joins, CTEs, window functions, PostgreSQL and MySQL.
-- **Data Analytics:** Exploratory analysis, visualization, reporting and Power BI.
-- **Data Engineering:** ETL/ELT, data pipelines, transformation and data validation.
-- **Data Science:** Statistical analysis, feature engineering and predictive modeling.
-- **Machine Learning & AI:** Model development, OCR, computer vision and LLM integration.
-- **Cloud & DevOps:** AWS, Docker, Linux, Nginx and CI/CD.
-
+---
+01 / PROFILE
+I turn data and ideas into working systems.
+I'm Atul Yadav, a Python developer with hands-on experience building backend applications, data workflows, business automation and AI-powered document-processing systems.
+I enjoy working across the engineering lifecycle: understanding a problem, collecting and validating data, designing the processing logic, building APIs and delivering something dependable in real-world workflows.
+My interests span Python development, SQL, Data Analytics, Data Engineering, Data Science, Machine Learning, AI and backend engineering. I’m especially interested in roles where software engineering and data come together to solve meaningful problems.
 ```python
 class AtulYadav:
-
-    name = "Atul Yadav"
     role = "Python Software Developer"
-    experience = "4+ Years"
+    experience = "3.9+ years"
 
     interests = [
-        "Python",
-        "SQL",
-        "Data Analytics",
-        "Data Engineering",
-        "Data Science",
-        "Machine Learning",
-        "Artificial Intelligence",
-        "Backend Development",
-        "Cloud Engineering"
+        "Python Development",
+        "SQL & Database Engineering",
+        "Data Analytics & Business Intelligence",
+        "Data Engineering & ETL",
+        "Data Science & Machine Learning",
+        "AI, OCR & LLM Applications",
+        "Backend & API Development",
+        "Cloud & Automation",
     ]
 
-    philosophy = "Understand the data. Engineer the solution."
+    principle = "Understand the data. Engineer the solution."
 ```
-
-## 02 — CAREER JOURNEY
-
 <div align="center">
-
-**MY PROFESSIONAL JOURNEY**
-
+PYTHON  ·  SQL  ·  DATA  ·  AUTOMATION  ·  AI
 </div>
-
-| Period | Organization | Position |
-|---|---|---|
-| Jun 2022 – Nov 2025 | Laxmi Engineering Works | Application Support Engineer |
-| Nov 2025 – Mar 2026 | eClerx | Software Engineer |
-| Mar 2026 – Present | F.T. Solutions | Python Software Developer |
-
-### F.T. Solutions — Python Software Developer
-
-`March 2026 – Present`
-
-- Developing backend applications using Django, Flask and FastAPI.
-- Building Python and SQL data processing pipelines.
-- Developing OCR and LLM-based document intelligence systems.
-- Customizing ERPNext/Frappe business workflows.
-- Deploying applications using AWS, Docker and Nginx.
-- Building automation and reporting solutions.
-
-### eClerx — Software Engineer
-
-`November 2025 – March 2026`
-
-- Developed Python and SQL ETL scripts.
-- Built complex SQL queries for business reporting.
-- Implemented data validation using Pandas and NumPy.
-- Developed internal Flask applications and REST APIs.
-
-### Laxmi Engineering Works — Application Support Engineer
-
-`June 2022 – November 2025`
-
-- Customized and maintained ERP applications.
-- Developed Python automation scripts.
-- Built SQL-based reporting solutions.
-- Automated data extraction and transformation processes.
-
-## 03 — TECHNICAL EXPERTISE
-
+02 / WHAT I WORK ON
+<img align="right" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&hide_border=true&bg_color=070B14&title_color=75B7FF&text_color=C7D2E2&langs_count=7" alt="Most used languages"/>
+Backend & Python
+Building application logic, REST APIs and automation.
+Working with Python, Django, Flask and FastAPI.
+Writing maintainable code and reusable components.
+SQL & Data
+Complex SQL queries, joins, CTEs and data transformations.
+Data cleaning, validation and analysis with Pandas and NumPy.
+ETL workflows, structured outputs and reporting.
+Applied AI
+OCR and intelligent document processing.
+LLM-based extraction and structured JSON generation.
+Computer vision and machine-learning experimentation.
+Engineering & Delivery
+Docker, Linux, AWS and application deployment.
+PostgreSQL, MySQL and API integrations.
+ERPNext/Frappe customization and workflow automation.
+<br clear="right"/>
+03 / TECHNOLOGY TOOLKIT
 <div align="center">
-
-**PROGRAMMING & BACKEND**
-
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,flask&theme=dark" />
-
-**DATABASES & DATA ENGINEERING**
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" />
-
-**DATA SCIENCE & MACHINE LEARNING**
-
-<img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" />
-
-**CLOUD & DEVELOPMENT TOOLS**
-
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,nginx,git,github,vscode&theme=dark" />
-
-</div>
-
-Additional tools:
-
-`Pandas` `NumPy` `Scikit-learn` `Power BI` `OpenPyXL` `Selenium` `BeautifulSoup` `Tesseract OCR` `LLM APIs`
-
-## 04 — SELECTED PROJECTS
-
-### 01. Algorithmic Trading & Quantitative Research
-
-<sub>FINANCIAL TECHNOLOGY · PYTHON · DATA ANALYSIS</sub>
-
-A systematic trading research and execution platform focused on market data processing, strategy evaluation and automated execution.
-
-- Market data ingestion and feature engineering.
-- Technical indicators and backtesting.
-- Strategy research and performance evaluation.
-- Automated execution infrastructure.
-- Risk and trade analysis.
-
-`Python` `SQL` `Market Data APIs` `Backtesting`
-
-[Explore Project →](https://github.com/atul2501/DQM-model-for-HFT)
-
----
-
-### 02. Intelligent OCR & LLM Document Processing
-
-<sub>ARTIFICIAL INTELLIGENCE · DOCUMENT AUTOMATION</sub>
-
-An intelligent document-processing solution that extracts structured information from invoices, PDFs and scanned documents.
-
-- OCR and image preprocessing.
-- LLM-powered information extraction.
-- Structured JSON generation.
-- REST API integration.
-- Automated document workflows.
-
-<sub>95%+ reported extraction accuracy · Up to 70% reduction in manual processing time</sub>
-
-`Python` `Django` `OpenCV` `Tesseract` `LLM` `REST API`
-
-[Explore Project →](https://github.com/atul2501/ocr-project)
-
----
-
-### 03. Business Process Automation
-
-<sub>SOFTWARE ENGINEERING · AUTOMATION</sub>
-
-Python-based automation solutions for repetitive business operations and spreadsheet processing.
-
-- Automated Excel processing.
-- Business rule implementation.
-- Data cleaning and transformation.
-- Automated reporting.
-
-`Python` `Pandas` `OpenPyXL` `SQL`
-
-[Explore Project →](https://github.com/atul2501/Automation-With-Python)
-
----
-
-### 04. E-Commerce Data Extraction & ETL
-
-<sub>DATA ENGINEERING · WEB SCRAPING</sub>
-
-An automated extraction and processing pipeline for JavaScript-rendered e-commerce websites.
-
-- Dynamic scraping using Selenium.
-- Infinite scrolling and content extraction.
-- Data cleaning and validation.
-- CSV/XLSX exports and API integration.
-
-<sub>50K+ product records processed · 95%+ reported accuracy</sub>
-
-`Python` `Selenium` `BeautifulSoup` `Pandas` `Flask`
-
----
-
-### 05. Autonomous Driving AI — SUMO
-
-<sub>ARTIFICIAL INTELLIGENCE · SIMULATION</sub>
-
-An ongoing exploration of autonomous driving and intelligent traffic systems.
-
-- SUMO traffic simulation.
-- Reinforcement learning.
-- Vehicle behavior analysis.
-- Traffic-flow optimization.
-
-`Python` `SUMO` `Machine Learning`
-
-## 05 — AREAS OF INTEREST
-
-<div align="center">
-
-| DOMAIN | MY INTERESTS |
-|:---|:---|
-| Software Development | Python, OOP, APIs, Backend Systems |
-| SQL Engineering | Advanced SQL, Optimization, Database Design |
-| Data Analytics | EDA, Power BI, Visualization, Reporting |
-| Data Engineering | ETL, ELT, Data Pipelines, Warehousing |
-| Data Science | Statistics, Predictive Analytics, Modeling |
-| Machine Learning | Scikit-learn, PyTorch, Model Evaluation |
-| Artificial Intelligence | OCR, LLMs, Computer Vision |
-| Cloud Engineering | AWS, Docker, Linux, CI/CD |
-
-</div>
-
-## 06 — GITHUB ACTIVITY
-
-<div align="center">
-
-<a href="https://github.com/atul2501">
-<img src="https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&hide_border=true&bg_color=080D18&title_color=58A6FF&icon_color=F7931E&text_color=C9D1D9&rank_icon=github" width="49%" alt="GitHub statistics"/>
-</a>
-
-<a href="https://github.com/atul2501">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atul2501&layout=compact&hide_border=true&bg_color=080D18&title_color=58A6FF&text_color=C9D1D9&langs_count=8" width="41%" alt="Most used programming languages"/>
-</a>
-
+<img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql,sqlite&theme=dark" alt="Python, backend and database technologies"/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,aws,docker,linux,nginx,git,github,vscode&theme=dark" alt="AI, cloud and developer tools"/>
 <br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=atul2501&theme=tokyonight&hide_border=true&background=080D18&ring=58A6FF&fire=F7931E&currStreakLabel=58A6FF" width="70%" alt="GitHub contribution streak"/>
-
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111"/>
+<img src="https://img.shields.io/badge/OpenPyXL-217346?style=flat-square&logo=microsoftexcel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white"/>
+<img src="https://img.shields.io/badge/BeautifulSoup-59666C?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/OCR%20%26%20LLMs-7C3AED?style=flat-square&logo=openai&logoColor=white"/>
 </div>
-
-## 07 — EDUCATION & CERTIFICATIONS
-
-**Bachelor of Engineering — Computer Science and Engineering**
-
-Shivajirao S. Jondhale College of Engineering, Thane · 2022
-
-**Certifications & Training**
-
-- Python + Data Science
-- MySQL 8.x — SQL, PL/SQL & DBA Activities
-- Power BI Data Analytics & Dashboard Design
-- Python Libraries
-- Machine Learning
-
-## 08 — CAREER OPPORTUNITIES
-
-I am interested in opportunities where I can apply my programming, analytical and engineering skills to build meaningful products and solve challenging problems.
-
-**Roles of Interest**
-
-`Python Developer` · `SQL Developer` · `Data Analyst` · `Data Engineer` · `Data Scientist` · `Machine Learning Engineer` · `AI Engineer` · `Backend Developer` · `ETL Developer` · `Analytics Engineer`
-
-**Geographical Interests:** India 🇮🇳 · Japan 🇯🇵
-
-## 09 — LET'S CONNECT
-
+04 / FEATURED ENGINEERING
+01 — Algorithmic Trading & Quantitative Research
+<a href="https://github.com/atul2501/DQM-model-for-HFT">
+  <img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/pin/?username=atul2501&repo=DQM-model-for-HFT&hide_border=true&bg_color=0D1522&title_color=75B7FF&text_color=C7D2E2&icon_color=F2A65A" alt="Algorithmic trading repository"/>
+</a>
+A systematic trading research project focused on market data, strategy evaluation and automated execution.
+Market data ingestion and feature engineering.
+Technical indicators and historical backtesting.
+Strategy and performance analysis.
+Trading execution and risk-oriented research.
+`Python` `Market Data` `Backtesting` `Quantitative Research`
+Explore repository →
+<br clear="right"/>
+02 — OCR + LLM Document Intelligence
+<a href="https://github.com/atul2501/ocr-project">
+  <img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/pin/?username=atul2501&repo=ocr-project&hide_border=true&bg_color=0D1522&title_color=75B7FF&text_color=C7D2E2&icon_color=F2A65A" alt="OCR project repository"/>
+</a>
+An intelligent document-processing pipeline that extracts structured information from scanned documents and PDFs.
+OCR and image preprocessing.
+LLM-assisted field extraction.
+Structured JSON output.
+API-based processing and workflow integration.
+`Python` `OCR` `PaddleOCR` `LLMs` `FastAPI`
+Explore repository →
+<br clear="right"/>
+03 — Business Process Automation
+<a href="https://github.com/atul2501/Automation-With-Python">
+  <img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/pin/?username=atul2501&repo=Automation-With-Python&hide_border=true&bg_color=0D1522&title_color=75B7FF&text_color=C7D2E2&icon_color=F2A65A" alt="Python automation repository"/>
+</a>
+Python automation for spreadsheet-based operations and repetitive business workflows.
+Excel data extraction and processing.
+Business-rule implementation.
+Data cleaning and transformation.
+Automated report generation.
+`Python` `Pandas` `OpenPyXL` `Automation`
+Explore repository →
+<br clear="right"/>
+04 — Autonomous Driving AI (In Progress)
+Exploring intelligent vehicle behavior and traffic systems using SUMO simulation, with an interest in reinforcement learning and simulation-based decision-making.
+`Python` `SUMO` `Reinforcement Learning` `Simulation`
+05 / CURRENT INTERESTS
 <div align="center">
-
-<a href="https://www.linkedin.com/in/atul-yadav-112063294/">
-<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:yatul247@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
+<img src="https://img.shields.io/badge/01-Python%20Engineering-14243A?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/02-SQL%20%26%20Databases-14243A?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/03-Data%20Analytics-14243A?style=for-the-badge&labelColor=0B1220"/>
+<br/>
+<img src="https://img.shields.io/badge/04-Data%20Engineering-14243A?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/05-Machine%20Learning-14243A?style=for-the-badge&labelColor=0B1220"/>
+<img src="https://img.shields.io/badge/06-AI%20%26%20Automation-14243A?style=for-the-badge&labelColor=0B1220"/>
+</div>
+I’m open to opportunities in Python Development, SQL Development, Data Analytics, Data Engineering, Data Science, Machine Learning, AI Engineering and Backend Development. I’m also interested in international opportunities, particularly in Japan.
+06 / GITHUB ACTIVITY
+<div align="center">
 <a href="https://github.com/atul2501">
-<img src="https://img.shields.io/badge/GITHUB-FOLLOW-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=atul2501&show_icons=true&hide_border=true&bg_color=070B14&title_color=75B7FF&icon_color=F2A65A&text_color=C7D2E2&rank_icon=github" alt="GitHub statistics"/>
 </a>
-
-<a href="https://blocktechvalidator.xyz">
-<img src="https://img.shields.io/badge/PORTFOLIO-VISIT-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+<a href="https://github.com/atul2501">
+  <img height="165" src="https://streak-stats.demolab.com?user=atul2501&hide_border=true&background=070B14&ring=75B7FF&fire=F2A65A&currStreakLabel=75B7FF&sideLabels=C7D2E2&dates=8292A8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak"/>
 </a>
-
 <br/><br/>
-
-**Atul Yadav**  
-Python Software Developer · Data Engineering · Analytics
-
-*Build with purpose. Engineer with precision. Let data drive decisions.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:142B4D,100:080D18&height=120&section=footer" width="100%"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=atul2501&bg_color=070B14&color=9BBCE5&line=438DE0&point=F2A65A&area=true&hide_border=true" width="96%" alt="GitHub contribution activity graph"/>
+</div>
+07 / LET'S CONNECT
+<div align="center">
+Have an interesting problem? Let's talk.
+I'm always happy to connect with engineers, data professionals, recruiters and teams building useful technology.
+<a href="mailto:yatul247@gmail.com"><img src="https://img.shields.io/badge/EMAIL-yatul247%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/atul-yadav-112063294/"><img src="https://img.shields.io/badge/LINKEDIN-Atul%20Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/atul2501"><img src="https://img.shields.io/badge/GITHUB-atul2501-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://blocktechvalidator.xyz"><img src="https://img.shields.io/badge/WEBSITE-Visit-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<br/><br/>
+“In God we trust. All others must bring data.” — W. Edwards Deming
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:2563EB,55:102746,100:070B14" width="100%" alt="Animated footer"/>
+<sub>Designed with purpose · Built with curiosity · Always learning</sub>
 </div>
