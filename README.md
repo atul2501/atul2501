@@ -38,6 +38,7 @@ SQL & Data	Joins, CTEs, data transformation, validation, analysis, and reporting
 Data Engineering	ETL workflows, structured data processing, and database integration
 Applied AI	OCR, document intelligence, LLM-assisted extraction, and structured JSON generation
 Engineering & Delivery	Docker, Linux, AWS, PostgreSQL, MySQL, and ERPNext/Frappe customization
+---
 Technology Stack
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,django,flask,fastapi,postgres,mysql&theme=dark" alt="Python, backend and database technologies" />
@@ -53,34 +54,36 @@ Technology Stack
   <img src="https://img.shields.io/badge/OCR%20%26%20LLMs-7C3AED?style=flat-square&logo=openai&logoColor=white" alt="OCR and LLMs" />
 </div>
 Featured Projects
-1. Algorithmic Trading & Quantitative Research
-A trading research project focused on market data, strategy evaluation, backtesting, and automated execution.
+01. Algorithmic Trading & Quantitative Research
+A research-oriented trading system focused on market data, strategy evaluation, backtesting, and automated execution.
 Market data ingestion and feature engineering
 Technical indicators and historical backtesting
-Strategy and performance analysis
+Strategy development and performance analysis
 Trading execution and risk-oriented research
-Technologies: `Python` `Market Data` `Backtesting` `Quantitative Research`
-View repository
-2. OCR & LLM Document Intelligence
-A document-processing project focused on extracting structured information from scanned documents and PDFs.
+Tech: `Python` `Market Data` `Backtesting` `Quantitative Research`
+↗ View Project
+02. OCR & LLM Document Intelligence
+An intelligent document-processing pipeline designed to extract structured information from scanned documents and PDFs.
 OCR and image preprocessing
-LLM-assisted field extraction
-Structured JSON output
+LLM-assisted information extraction
+Structured JSON generation
 API-based processing and workflow integration
-Technologies: `Python` `OCR` `PaddleOCR` `LLMs` `FastAPI`
-View repository
-3. Business Process Automation
-Python automation for spreadsheet-based operations and repetitive business workflows.
+Tech: `Python` `OCR` `PaddleOCR` `LLMs` `FastAPI`
+↗ View Project
+03. Business Process Automation
+Python-based automation for spreadsheet operations and repetitive business workflows.
 Excel data extraction and processing
 Business-rule implementation
 Data cleaning and transformation
 Automated report generation
-Technologies: `Python` `Pandas` `OpenPyXL` `Automation`
-View repository
-4. Autonomous Driving AI — In Progress
-Exploring intelligent vehicle behavior and traffic systems using SUMO simulation, with an interest in reinforcement learning and simulation-based decision-making.
-Technologies: `Python` `SUMO` `Reinforcement Learning` `Simulation`
+Tech: `Python` `Pandas` `OpenPyXL` `Automation`
+↗ View Project
+04. Autonomous Driving AI — In Progress
+Exploring intelligent vehicle behaviour and traffic systems using SUMO simulation, with an interest in reinforcement learning and simulation-based decision-making.
+Tech: `Python` `SUMO` `Reinforcement Learning` `Simulation`
+---
 Current Interests
+
 Python engineering and backend development
 SQL, database design, and query optimization
 Data analytics, data science, and business intelligence
@@ -99,6 +102,7 @@ GitHub Activity
   <br /><br />
   <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=atul2501&bg_color=0D1117&color=9BBCE5&line=438DE0&point=F2A65A&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 </div>
+---
 Let's Connect
 Have an interesting problem or project? Let's connect.
 <p align="center">
